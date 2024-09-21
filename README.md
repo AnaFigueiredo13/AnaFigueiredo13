@@ -51,6 +51,12 @@
 
 🌐 Visit My Porfolio: https://www.behance.net/beatriz100ec9f/projects
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AnaFigueiredo13&theme=dark&hide_border=true&border_radius=4" alt="GitHub Streak" /></a>
-###
+### Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=170 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnaFigueiredo13&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaFigueiredo13&layout=compact&langs_count=8&card_width=320&bg_color=000000&title_color=FFFFFF&hide_border=true&text_color=FFFFFF" />
+</a>
           
