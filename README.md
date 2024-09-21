@@ -52,6 +52,5 @@
 🌐 Visit My Porfolio: https://www.behance.net/beatriz100ec9f/projects
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AnaFigueiredo13&theme=dark&hide_border=true&border_radius=4" alt="GitHub Streak" /></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaFigueiredo13)](https://github.com/AnaFigueiredo13/github-readme-stats)
 ###
           
