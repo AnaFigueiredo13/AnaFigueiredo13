@@ -2,7 +2,7 @@
 
 ### Are you checking my profile O_O
 
-📚 Tecnology and Design Multimedia Student at ESTGV, Viseu
+📚 Graduate in Technology and Multimedia Design from ESTGV, Viseu.
 
 🤓 I'm passionate about combining creative UX/UI design with web development.
 
